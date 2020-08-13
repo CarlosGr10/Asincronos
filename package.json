@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/CarlosGr10/Asincronos/issues"
   },
-  "homepage": "https://github.com/CarlosGr10/Asincronos#readme"
+  "homepage": "https://github.com/CarlosGr10/Asincronos#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
