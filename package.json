@@ -4,7 +4,9 @@
   "description": "Trabajar conasincrinismo\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C \u001b[C\u001b[C\u001b[D\u001b[Dasincronismo en Javascript",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+
+    "callback:challenge": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
